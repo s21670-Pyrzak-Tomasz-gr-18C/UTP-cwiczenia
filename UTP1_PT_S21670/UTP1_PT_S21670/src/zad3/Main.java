@@ -39,7 +39,6 @@ public class Main {
      * ani też żadnych własnych interfejsów
      * Podpowiedź: należy użyć strumieni
      */
-
     for (String r : result) System.out.println(r);
   }
 }
